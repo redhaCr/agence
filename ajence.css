@@ -452,6 +452,7 @@ background-color: black;
        justify-content: center;
        text-align: center;
     }
+
     .flat-right{
         padding-top: 9em;
     }
@@ -497,6 +498,12 @@ background-color: black;
 }
 .form-singup select{
     width: 300px;
+}
+#content-right{
+    padding: 0 0 0 2em;
+}
+#content-left{
+    padding: 0 0 0 2em;
 }
 }
 
