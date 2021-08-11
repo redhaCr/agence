@@ -490,6 +490,14 @@ background-color: black;
     .footer{
       border-radius: 0 50px 0 0;
   }
+  .form-singup input:not(:first-child){
+
+    width: 300px;
+
+}
+.form-singup select{
+    width: 300px;
+}
 }
 
 @media (min-width: 1741px) and (max-width: 3000px){
